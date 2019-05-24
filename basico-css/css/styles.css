@@ -1,0 +1,33 @@
+﻿/*esto es una etiqueta, no lleva punto ni numeral, es un
+    coomando de html
+*/
+body {
+    background-color:#221c72;
+    color:#FFF;
+}
+p{
+    background-color:#ff0000;
+    color:#ffd800;
+    font-size:20px;
+    font-weight:bold;
+    cursor:pointer;
+    margin: 10px 0 20px 0;
+    padding:20px 10px 40px 5px;
+}
+/*esto es un comentario, se usa para ayudar a comprender
+    el código, porque luego no te acuerdas que hace,
+    ayuda a evitar que digas maldiciones y groserias
+*/
+/*ahora declaro un idenfiticador, este se usa con gato
+    o simbolo numeral #
+*/
+#efectoIdentificador{
+    color:#f50a0a;
+}
+/*en los estilos se puede declarar una clase, la clase 
+    se declara con un punto, y tiene mas peso que la
+    etiqueta 
+*/
+.efectoClase {
+    color: #b8ffa4;
+}
